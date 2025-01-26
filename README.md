@@ -1,6 +1,6 @@
 # 🎬 **Movie Search App** 🎥
 
-![Desktop preview](./moonflix-preview.png)
+![Desktop preview](moonflix-preview.png)
 
 This React-based app allows users to search for movies using a third-party API, display trending movies, and keep track of top 5 searched movies. Built with **React** and **Vite**, this app offers a smooth and fast user experience.
 
