@@ -1,5 +1,7 @@
 # 🎬 **Movie Search App** 🎥
 
+![Desktop preview](https://ibb.co/zscjCMD)
+
 This React-based app allows users to search for movies using a third-party API, display trending movies, and keep track of top 5 searched movies. Built with **React** and **Vite**, this app offers a smooth and fast user experience.
 
 ## 🌟 **Features**
@@ -15,3 +17,6 @@ This React-based app allows users to search for movies using a third-party API, 
 - **Vite**: Fast build tool for modern web development
 - **Appwrite**: Used for storing and updating search counts to display the top 5 movies
 - **The Movie Database (TMDb) API**: API for fetching movie data and search results
+
+## 📺 Tutorial
+This project was built following the tutorial from the **[JS Mastery YouTube Channel](https://www.youtube.com/watch?v=dCLhUialKPQ&ab_channel=JavaScriptMastery)**. Thank you to JS Mastery for the helpful video!
